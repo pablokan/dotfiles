@@ -1,6 +1,6 @@
 *.tmp
 *.log
-
+.cache
 # .aws/credentials
 .ssh/
 .config/LM Studio/Cache/
@@ -9,6 +9,7 @@
 .config/chezmoi/
 
 # Ignorar un directorio completo
+.config/obs-studio/plugin_config/obs-browser/
 .config/google-chrome/
 .config/thorium/
 .config/Code/
