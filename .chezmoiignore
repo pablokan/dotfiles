@@ -1,0 +1,20 @@
+*.tmp
+*.log
+
+# .aws/credentials
+.ssh/
+
+
+# Ignorar un directorio completo
+.config/google-chrome/
+.config/thorium/
+.config/Code/
+.config/BraveSoftware/
+.config/vivaldi/
+.config/Windsurf/
+.config/Aide/
+.config/Code - Insiders/
+.config/anythingllm-desktop/
+.config/Pinokio/
+.config/Pulsar/
+
