@@ -3,10 +3,7 @@
 
 # .aws/credentials
 .ssh/
-.config/LM Studio/Cache/
-.config/obs-studio/plugin_config/obs-websocket/
 
-.config/chezmoi/
 
 # Ignorar un directorio completo
 .config/google-chrome/
