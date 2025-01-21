@@ -1,0 +1,17 @@
+keybind = ctrl+shift+right=goto_split:right
+keybind = ctrl+shift+left=goto_split:left
+keybind = ctrl+shift+up=goto_split:top
+keybind = ctrl+shift+down=goto_split:bottom
+keybind = ctrl+tab=next_tab
+
+theme = catppuccin-mocha
+window-theme = dark
+background-opacity = 0.8
+background-blur-radius = 0
+unfocused-split-opacity = 0.7
+
+font-family = JetBrainsMono NF SemiBold
+font-size = 16
+
+shell-integration = zsh
+shell-integration-features = no-cursor, sudo

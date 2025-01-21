@@ -1,0 +1,17 @@
+# Compositor
+picom -b &
+
+# Establecer fondo de pantalla
+nitrogen --restore &
+
+# Panel
+~/.config/openbox/polybar/launch.sh &
+
+# Políticas de energía
+xfce4-power-manager &
+
+# Teclado
+setxkbmap es &
+
+# Notificaciones
+/usr/lib/x86_64-linux-gnu/xfce4/notifyd/xfce4-notifyd &

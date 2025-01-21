@@ -1,0 +1,11 @@
+{
+    "main": {
+        "geometry": [
+            960,
+            550
+        ],
+        "handle_position": 480,
+        "hide_on_close": false,
+        "state": 0
+    }
+}

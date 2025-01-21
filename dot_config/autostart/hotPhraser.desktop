@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=python /home/kan/development/replacer/replacer.py
+X-GNOME-Autostart-enabled=false
+NoDisplay=false
+Hidden=false
+Name[en_US]=hotPhraser
+Comment[en_US]=Phrase Launcher
+X-GNOME-Autostart-Delay=0

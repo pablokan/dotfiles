@@ -1,0 +1,103 @@
+{
+	"notifications": [
+		{
+			"guid": "e76a97c6-cc64-4c10-8f80-d375f940cded",
+			"timestamp": 1720734481398,
+			"read": false,
+			"displayState": "background",
+			"notification": {
+				"message": "Multi-platform image support with containerd is here, try it now!",
+				"icon": "sparkles",
+				"type": "general-purpose",
+				"actionText": "Enable",
+				"action": {
+					"action": "enable-c8d",
+					"params": {}
+				}
+			}
+		},
+		{
+			"guid": "6003399e-5d18-4bae-9d61-43eebdd5a427",
+			"timestamp": 1720904354498,
+			"read": false,
+			"displayState": "background",
+			"notification": {
+				"message": "(HTTP code 500) server error - could not select device driver \"\" with capabilities: [[gpu]] ",
+				"icon": "error",
+				"type": "error"
+			}
+		},
+		{
+			"guid": "91d758d5-767c-4afb-8ed6-b5eecb4f4e86",
+			"timestamp": 1720904591990,
+			"read": false,
+			"displayState": "background",
+			"notification": {
+				"message": "(HTTP code 500) server error - could not select device driver \"\" with capabilities: [[gpu]] ",
+				"icon": "error",
+				"type": "error"
+			}
+		},
+		{
+			"guid": "9317bb9e-d882-4e1e-be0a-3dc8ee784305",
+			"timestamp": 1720904632897,
+			"read": false,
+			"displayState": "background",
+			"notification": {
+				"message": "Terminal closed unexpectedly",
+				"icon": "error",
+				"type": "error"
+			}
+		},
+		{
+			"guid": "fe21ce8f-3214-4334-89b4-a35513e08705",
+			"timestamp": 1726572177996,
+			"read": false,
+			"displayState": "background",
+			"notification": {
+				"type": "update",
+				"ephemeral": false,
+				"icon": "download",
+				"message": "Docker Desktop 4.34.2 is available.",
+				"actionText": "Download",
+				"action": {
+					"action": "update-available"
+				}
+			}
+		},
+		{
+			"guid": "33da2065-0335-400a-b57f-b43fc1743004",
+			"timestamp": 1726572196477,
+			"read": true,
+			"displayState": "background",
+			"notification": {
+				"message": "You must initialize pass before logging in to Docker Desktop",
+				"icon": "error",
+				"type": "action-result",
+				"operation": "user-log-in",
+				"title": "Unable to log in",
+				"actionText": "Learn how",
+				"action": {
+					"action": "open-credential-store-instructions",
+					"params": {}
+				}
+			}
+		},
+		{
+			"guid": "9f88d6de-a04f-4935-b68f-36ae7bc5ec22",
+			"timestamp": 1728037312547,
+			"read": true,
+			"displayState": "background",
+			"notification": {
+				"message": "Another application changed your Desktop configurations",
+				"icon": "warning",
+				"type": "integrity-check",
+				"actionText": "Repair",
+				"action": {
+					"action": "integrity-repair",
+					"params": {}
+				}
+			}
+		}
+	]
+}

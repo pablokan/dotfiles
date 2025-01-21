@@ -1,0 +1,31 @@
+{
+  "add books dialog dir": "/mnt/respaldo/libros post denver/politica",
+  "add books dialog dir-last-used-filter-spec-all-files": true,
+  "catalogs_to_be_synced": {
+    "__class__": "set",
+    "__value__": []
+  },
+  "notified-version-updates": {
+    "__class__": "set",
+    "__value__": [
+      "7.24",
+      "7.18",
+      "7.22",
+      "7.17",
+      "7.21",
+      "7.20",
+      "7.19"
+    ]
+  },
+  "sort_history": [
+    [
+      "timestamp",
+      false
+    ],
+    [
+      "timestamp",
+      false
+    ]
+  ],
+  "welcome_wizard_was_run": true
+}

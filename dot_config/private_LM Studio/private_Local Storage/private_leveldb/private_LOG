@@ -1,0 +1,11 @@
+2024/08/04-18:50:30.304 5583 Creating DB /home/kan/.config/LM Studio/Local Storage/leveldb since it was missing.
+2024/08/04-18:50:30.320 5583 Reusing MANIFEST /home/kan/.config/LM Studio/Local Storage/leveldb/MANIFEST-000001
+2024/08/04-18:52:12.675 5583 Level-0 table #5: started
+2024/08/04-18:52:12.731 5583 Level-0 table #5: 46820 bytes OK
+2024/08/04-18:52:12.735 5583 Delete type=0 #3
+2024/08/04-18:53:30.733 5728 Level-0 table #7: started
+2024/08/04-18:53:30.741 5728 Level-0 table #7: 299519 bytes OK
+2024/08/04-18:53:30.746 5728 Delete type=0 #4
+2024/08/04-18:57:28.835 5583 Level-0 table #9: started
+2024/08/04-18:57:28.845 5583 Level-0 table #9: 508343 bytes OK
+2024/08/04-18:57:28.850 5583 Delete type=0 #6
